@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: 'mongodb://clever_admin:admin@localhost:27017/cleverhause_devices_db?authMechanism=SCRAM-SHA-1'
